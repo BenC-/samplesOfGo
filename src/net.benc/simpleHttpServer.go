@@ -1,5 +1,6 @@
 /**
- * Example of simple http server deployed
+ * Example of simple http server with handler binded on url pattern
+ * For more information, go to http://golang.org/pkg/net/http/
  */
 package main
 
